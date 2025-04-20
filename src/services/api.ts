@@ -1,5 +1,5 @@
 // Base API URL - replace with your Laravel backend URL
-const API_BASE_URL = 'http://localhost/laravel/Aplicacion/public/api';
+const API_BASE_URL = 'https://hohbebujvilgllykpeas.supabase.co';
 
 // Custom fetch API wrapper
 const api = {
